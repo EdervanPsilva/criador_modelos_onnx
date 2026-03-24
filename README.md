@@ -1,4 +1,4 @@
-# Conversor de Modelos para ONNX 🚀
+# Criador de Modelos para ONNX 🚀
 
 Este projeto é um pipeline completo de ciência de dados para treinamento de modelos de classificação e exportação para o formato **ONNX (Open Neural Network Exchange)**. Ele permite gerar dados sintéticos, treinar múltiplos algoritmos de Machine Learning e salvar o melhor modelo para uso em produção.
 
