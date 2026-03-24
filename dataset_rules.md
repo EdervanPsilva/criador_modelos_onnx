@@ -61,6 +61,7 @@ Fev,95000,100000,7000,negativo
 Mar,120000,90000,10000,positivo
 Abr,85000,95000,3000,negativo
 
+---
 
 ## 5. Onde salvar
 
